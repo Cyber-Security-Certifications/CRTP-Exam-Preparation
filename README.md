@@ -1,4 +1,4 @@
-# CRTP-Exam-Preparation
+# CRTP Exam Preparation
 
 
 ## Tools
@@ -8,17 +8,52 @@
 
 
 ## Powershell Defenses ByPass
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
 
 ## AMSI ByPass
 
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
+## Domain Enumeration
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
+## Man-in-the-Middle attacks & Relaying
+
+## Credentials Dumping
+
+### Local Credentials
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
+### Domain Credentials
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
 ## Local Privilege Escalation
 
 
-
 ## Domain Privilege Escalation
-
 
 
 ## Escalate to Enterprise Admin
@@ -30,5 +65,4 @@
 ## Domain Persistence
 
 
-
-
+## Lateral Movement
