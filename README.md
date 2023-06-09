@@ -47,11 +47,26 @@
 
 ### Local Credentials
 
-| Tool  | Description  | Documentation  |  Git |
+| Technique  | Description  | Documentation  |  Git |
 |---|---|---|---|
+| SAM & LSA secrets  |   |   |   |
+| DPAPI secrets  |   |   |   |
+| NTDS secrets  |   |   |   |
+| LSASS secrets  |   |   |   |
+| DCSync  |   |   |   |
+| Group Policy Preferences  |   |   |   |
+| Network shares  |   |   |   |
+| Network protocols  |   |   |   |
+| Web browsers  |   |   |   |
+| In-memory secrets  |   |   |   |
+| Kerberos key list  |   |   |   |
+| Cached Kerberos tickets  |   |   |   |
+| Windows Credential Manager  |   |   |   |
+| Local files  |   |   |   |
+| Password managers  |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
-|   |   |   |   |
+
 
 ### Domain Credentials
 | Tool  | Description  | Documentation  |  Git |
