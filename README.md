@@ -17,7 +17,7 @@
 ## Powershell Defenses ByPass
 | Tool  | Description  | Documentation  |  Git |
 |---|---|---|---|
-|   |   |   |   |
+| Invisi-Shell  |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
 
@@ -64,8 +64,6 @@
 | Windows Credential Manager  |   |   |   |
 | Local files  |   |   |   |
 | Password managers  |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
 
 
 ### Domain Credentials
@@ -78,9 +76,18 @@
 ## Local Privilege Escalation
 | Tool  | Description  | Documentation  |  Git |
 |---|---|---|---|
+|Unquoted Service Paths   |   |   |   |
+| DLL Hijacking  |   |   |   |
+| WebShells  |   |   |   |
+| Environment Variable $Path  |   |   |   |
+| Weak Service Permissions  |   |   |   |
 |   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+
+
+
+
+
+
 
 ## Domain Privilege Escalation
 | Tool  | Description  | Documentation  |  Git |
@@ -113,6 +120,11 @@
 ## Lateral Movement
 | Tool  | Description  | Documentation  |  Git |
 |---|---|---|---|
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| WinRS  |   |   |   |
+| WinRM  |   |   |   |
+| RDP  |   |   |   |
+| DCOM  |   |   |   |
+| WMI + MSI  |   |   |   |
+| Psexec  |   |   |   |
+| DLL  |   |   |   |
+| Chrome Extensions  |   |   |   |
